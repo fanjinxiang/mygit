@@ -1,0 +1,6 @@
+hello johnny
+hadoop storm
+hello hive
+hive storm
+storm hive
+hadoop
